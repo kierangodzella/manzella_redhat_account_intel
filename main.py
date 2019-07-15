@@ -108,7 +108,7 @@ class RunReport(object):
               ' least two films together) on IMDb\'s database, '+
               'by the mean IMDb scores of their films, are: \n', self.ec_df)
 
-# run if main; autoexecute
+# run if main, send it!
 if __name__=='__main__':
     input_data = pd.DataFrame(pd.read_csv('movie_metadata.csv'))
     RunReport(data=input_data, metric='net', EC=True).do_all()

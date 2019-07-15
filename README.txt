@@ -30,3 +30,9 @@ Finally, "do_all" runs "_output" to print out the top ten genres and directors r
 whichever metric is chosen in the "RunReport" arguments. If extra credit is enabled, it prints
 out the actor/director ranking as well. 
 
+
+NOTE:
+I've missed homework, and I appreciated having some coding work to do. In all seriousness, 
+it was a lot of fun and felt good. Thank you for taking your time to look over this.
+
+
